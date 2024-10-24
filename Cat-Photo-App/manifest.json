@@ -1,0 +1,9 @@
+{
+    "name": "Cat-Photos",
+    "short_name": "Cat-Photos",
+    "theme_color": "#fff",
+    "background_color": "#fff",
+    "display": "fullScreen",
+    "scope": "/",
+    "start_url": "/file:///C:/Users/vikto/OneDrive/Desktop/Coding%20Projects/Cat-Photo-App/Cat-Site.html"
+  }
